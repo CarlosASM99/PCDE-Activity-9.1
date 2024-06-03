@@ -7,4 +7,4 @@ The Massachusetts Institute of Technology (MIT) is a private university in Cambr
 
 The original MIT logo was created by William Barton Rogers and it represents two figures symbolizing the fields of Science and Industry. The image below displays the original logo.
 
-![MiT Logo](https://github.com/CarlosASM99/PCDE-Activity-9.1/blob/main/MIT-logo.png)
+![MiT Logo](https://raw.githubusercontent.com/CarlosASM99/PCDE-Activity-9.1/main/MIT-logo.png)
